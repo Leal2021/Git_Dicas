@@ -1,1 +1,2 @@
 Minha primeira alteação dentro do vsCode.
+Entendendo o Head em um projeto.
