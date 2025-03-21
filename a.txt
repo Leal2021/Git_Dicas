@@ -2,3 +2,4 @@ Minha primeira alteação dentro do vsCode.
 Entendendo o Head em um projeto.
 Inserindo novas informações.
 Esta linha foi modificada no ramo master.
+Esta linha foi modificada no ramo teste.
