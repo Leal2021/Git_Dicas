@@ -1,3 +1,5 @@
 # Git_Dicas
-## Repositório
-## Contém arquivos para uso da ferramenta GIT.
+## Repositorio para Git
+Repositório para dicas de git para iniciantes.
+
+![iori sendo iorj]()
