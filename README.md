@@ -11,6 +11,8 @@ Repositório para dicas de git para iniciantes.
 ![GitHub language count](https://img.shields.io/github/languages/count/Leal2021/Git_Dicas) contador de linguagem
 ![GitHub language count](https://img.shields.io/github/languages/count/Leal2021/Git_Dicas) numero de linguagens
 ![GitHub top language](https://img.shields.io/github/languages/top/Leal2021/Git_Dicas) linguagem predominante
+![GitHub forks](https://img.shields.io/github/forks/Leal2021/Git_DIcas)
+
 
 
 
