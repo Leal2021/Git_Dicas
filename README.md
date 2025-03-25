@@ -9,6 +9,7 @@ Repositório para dicas de git para iniciantes.
 
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Leal2021/Git_Dicas) Tamanho
 ![GitHub language count](https://img.shields.io/github/languages/count/Leal2021/Git_Dicas) contador de linguagem
+![GitHub language count](https://img.shields.io/github/languages/count/Leal2021/Git_Dicas) numero de linguagens
 
 
 
